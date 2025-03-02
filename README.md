@@ -33,7 +33,7 @@
 📱 Trabalho com **Swift, SwiftUI, UIKit** e estou sempre explorando novas tecnologias.  
 💡 Gosto de desenvolver projetos que unem **design, performance e experiência do usuário**.  
 🎯 Atualmente, estou trabalhando em um **app de finanças pessoais** usando **SwiftUI**.  
----
+
 
 ## 🚀 Tecnologias & Ferramentas  
 
